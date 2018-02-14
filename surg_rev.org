@@ -1,0 +1,57 @@
+* General Surgery
+** Wound Healing
+** Trauma and Emergency
+  Damage control surgery
+  Warfare injuries
+  Missile injuries
+  Mutiple injured patients
+  Good triage
+  Neck trauma
+  Hand injuries
+  Torso injuries
+  Blast injuries
+  Penetrating abdominal injuries
+  Maxillofacial injuries
+  Compartment syndromes
+  Fat embolism syndrome
+  Crush syndrome
+  Injuries of the colon, rectum and anal canal
+  Complex lower extremity injuries
+
+** Fluid and Electrolytes
+** Nutrition
+** Haemostasis
+** Haemorrhage and blood transfusion
+** Shock
+** Surgical Infections
+** Neoplasia
+** Transplantation
+** Principles of Minimally invasive surgery
+
+* Special Surgery
+** Skin and Subcutaenous tissue
+** Vascular surgery
+*** Arterial disease
+*** Venous disease
+*** Lymphatic disease
+
+** Endocrine surgery
+** Breast
+** Oesophagus
+** Stomach
+** Morbid Obesity
+** Liver
+** Gall bladder
+** Pancreas
+** Spleen
+** Mesentery
+** Small Intestine
+** Colon and Rectum
+** Anal Canal
+** Paediatric surgery
+** Head and Neck surgery
+** Plastic surgery
+** Cardiothoracic surgery
+** Orthopedics
+** Urosurgery
+** Neurosurgery
